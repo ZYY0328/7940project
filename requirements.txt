@@ -1,0 +1,7 @@
+telegram
+python-telegram-bot==13.7
+configparser
+openai
+google-api-python-client
+requests
+pymongo
